@@ -1,0 +1,11 @@
+@import "globals/normalize.css";
+@import "globals/fonts.css";
+
+@import "layout/header.css";
+@import "layout/newsletter.css";
+@import "layout/footer.css";
+
+@import "pages/home/intro.css";
+@import "pages/home/sobre.css";
+@import "pages/home/produtos.css";
+@import "pages/home/locais.css";
