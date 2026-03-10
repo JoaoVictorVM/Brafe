@@ -43,7 +43,7 @@ A versão publicada no **GitHub Pages** foi construída utilizando **Bootstrap**
 1. Clone este repositório
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/JoaoVictorVM/Brafe
 ```
 
 2. Abra o arquivo `index.html` no navegador
